@@ -12,3 +12,4 @@ Color Rush is a lightning-fast Android game developed in Java using Android Stud
 Give it a try, challenge your reflexes, and let the rush begin! 🌈🚦
 
 [Play Now!](https://github.com/r04nx/color-rush/releases/tag/Final)
+test
